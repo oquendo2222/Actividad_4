@@ -12,8 +12,10 @@ export const CreditCard = ({credit}) => {
     requirements,
     icon,
     } = credit;
-    
-// credito de libre inversion
+
+// credito de libre inversion con primer comit Configuración inicial de React con Vite"
+
+
   return (
     <div className='credit-card'>
 
@@ -34,7 +36,7 @@ export const CreditCard = ({credit}) => {
             {/*formatCurrency(minAmount) - formatCurrency(maxAmount)*/}
         </span>
       </div>
-
+              
       <div className='detail-item'>
         <span className='label'>Plazo: </span>
         <span className='value'>Hasta {maxTerm} meses </span>
