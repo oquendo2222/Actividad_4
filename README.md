@@ -93,3 +93,5 @@ npm install
 - Ejecutar el servidor de desarrollo
 
 npm run dev
+
+![alt text](<WhatsApp Image 2025-12-02 at 10.31.50 PM.jpeg>)
