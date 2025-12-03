@@ -56,3 +56,19 @@ Nuestra plataforma está construida sobre cinco funcionalidades principales que 
 - Asesoría Personalizada: Confianza y Claridad en cada paso financiero importante que decidas dar.
 
 - Seguridad de Vanguardia: Tranquilidad Total al saber que tu información está segura en todo momento.
+
+ ### Tecnologías utilizadas
+
+- React
+
+- React Router (si tu proyecto lo usa)
+
+- JavaScript (ES6+)
+
+- Vite o Create React App
+
+- CSS / TailwindCSS
+
+- Hooks (useState, useEffect)
+
+- Git y GitHub
