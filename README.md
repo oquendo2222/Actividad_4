@@ -72,3 +72,24 @@ Nuestra plataforma está construida sobre cinco funcionalidades principales que 
 - Hooks (useState, useEffect)
 
 - Git y GitHub
+
+### Instrucciones de instalación (npm install, npm run dev)
+
+- Clonar el repositorio
+
+git clone https://github.com/usuario/creditjuli-react
+
+
+- Entrar al proyecto
+
+cd creditjuli-react
+
+
+- Instalar dependencias
+
+npm install
+
+
+- Ejecutar el servidor de desarrollo
+
+npm run dev
