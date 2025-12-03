@@ -12,6 +12,7 @@ export const CreditCard = ({credit}) => {
     requirements,
     icon,
     } = credit;
+    
 // credito de libre inversion
   return (
     <div className='credit-card'>
