@@ -21,7 +21,7 @@ export const Home = () => {
         {creditsData.map((credit) =>{
           return(
             <CreditCard
-            key={credit.id} // Key identifica cada elemento de forma unica
+            key={credit.id} //identifica cada elemento
             credit={credit} //pasamos el objeto completo como prop
             />
           );
